@@ -23,7 +23,25 @@ A simple text-based Hangman game developed using Python as part of the CodeAlpha
 2. 2. Download or clone this repository.
 3. Open the terminal in the project folder.
 4. Run:
+## Sample Output
 
+Welcome to Hangman Game!
+Guess the word one letter at a time.
+You have 6 wrong guesses.
+
+Word: _ _ _ _ _ _ _
+Enter a letter: p
+Correct guess!
+
+Word: _ _ p _ _ _ _
+Enter a letter: u
+Correct guess!
+
+Word: _ _ p u _ _ _
+Enter a letter: e
+Correct guess!
+
+Congratulations! You guessed the word!
 python hangman_game.py
 
 ## Internship
