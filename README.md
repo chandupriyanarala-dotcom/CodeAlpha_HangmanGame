@@ -45,7 +45,7 @@ Congratulations! You guessed the word!
 python hangman_game.py
 ## Sample Output
 
-![Hangman Game Sample Output](Screenshot_2026-09-19_190850.png)
+![Hangman Game Sample Output](Screenshot 2026-09-19 190850.png)
 
 ## Internship
 This project was completed as part of the CodeAlpha Python Programming Internship.
